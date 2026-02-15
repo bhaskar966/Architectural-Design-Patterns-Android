@@ -1,4 +1,4 @@
-package com.bhaskar.architectural_design_patterns_android.ui.theme
+package com.bhaskar.architectural_design_patterns_android.view.ui.theme
 
 import android.app.Activity
 import android.os.Build
