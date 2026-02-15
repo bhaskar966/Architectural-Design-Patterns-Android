@@ -1,4 +1,4 @@
-package com.bhaskar.architectural_design_patterns_android.ui.theme
+package com.bhaskar.architectural_design_patterns_android.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
